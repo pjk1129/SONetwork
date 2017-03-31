@@ -9,7 +9,7 @@ SONetwork is an HTTP networking library based URLSession written  in Swift.
 #### a. 通过pod管理：SONetwork is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SONetwork', '~> 0.1.0'
+pod 'SONetwork', '~> 0.2.0'
 ```
 #### b. 直接引用SONetwork类文件到您的工程中
 
